@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lab2\\lab2_todolist\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|solutionrelative:lab2_todolist\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lab2\\lab2_todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|solutionrelative:lab2_todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lab2\\lab2_todolist\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|solutionrelative:lab2_todolist\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lab2\\lab2_todolist\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|solutionrelative:lab2_todolist\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lab2\\lab2_todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|solutionrelative:lab2_todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lab2\\lab2_todolist\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209183F-B057-4F5D-A7A6-D5441564C4CE}|Lab2_TodoList\\Lab2_TodoList.csproj|solutionrelative:lab2_todolist\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_TodoList\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Program.cs",
+              "RelativeToolTip": "Lab2_TodoList\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:00:33.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab2_TodoList\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "Lab2_TodoList\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T02:59:45.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab2_TodoList\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "Lab2_TodoList\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T02:58:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2_TodoList\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "Lab2_TodoList\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T02:56:56.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Lab2_TodoList\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Lab2_TodoList\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:54:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Lab2_TodoList\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lab2\\Lab2_TodoList\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Lab2_TodoList\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:53:01.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
