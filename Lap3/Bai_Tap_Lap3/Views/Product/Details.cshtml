@@ -1,0 +1,13 @@
+﻿@model Bai_Tap_Lap3.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <p><strong>ID:</strong> @Model.Id</p>
+    <p><strong>Tên sản phẩm:</strong> @Model.Name</p>
+    <p><strong>Giá:</strong> @Model.Price.ToString("C")</p>
+</div>
