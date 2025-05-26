@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A68F7EE8-5A43-4686-8820-0C621F4A6052}|Lap1.2_Bai6\\Lap1.2_Bai6.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.2\\lap1.2_bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68F7EE8-5A43-4686-8820-0C621F4A6052}|Lap1.2_Bai6\\Lap1.2_Bai6.csproj|solutionrelative:lap1.2_bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130C4A01-73D9-451E-8526-7B1BBE19C82E}|Lap1.2_Bai5\\Lap1.2_Bai5.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.2\\lap1.2_bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130C4A01-73D9-451E-8526-7B1BBE19C82E}|Lap1.2_Bai5\\Lap1.2_Bai5.csproj|solutionrelative:lap1.2_bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86395B47-827E-47C7-ADC7-32E4A0AD20BC}|Lap1.2_Bai4\\Lap1.2_Bai4.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.2\\lap1.2_bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86395B47-827E-47C7-ADC7-32E4A0AD20BC}|Lap1.2_Bai4\\Lap1.2_Bai4.csproj|solutionrelative:lap1.2_bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53317A6-C611-4BD7-A07B-4ACBB238C243}|Lap1.2_Bai3\\Lap1.2_Bai3.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.2\\lap1.2_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53317A6-C611-4BD7-A07B-4ACBB238C243}|Lap1.2_Bai3\\Lap1.2_Bai3.csproj|solutionrelative:lap1.2_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8964C647-2853-4A54-AC9D-4DFF9447EC18}|Lap1.2_Bai2\\Lap1.2_Bai2.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.2\\lap1.2_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8964C647-2853-4A54-AC9D-4DFF9447EC18}|Lap1.2_Bai2\\Lap1.2_Bai2.csproj|solutionrelative:lap1.2_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431DC43-55AD-4C2F-A94C-3C5816E3074D}|Lap1.2_Bai1\\Lap1.2_Bai1.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.2\\lap1.2_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431DC43-55AD-4C2F-A94C-3C5816E3074D}|Lap1.2_Bai1\\Lap1.2_Bai1.csproj|solutionrelative:lap1.2_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.2_Bai6\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai6\\Program.cs",
+              "RelativeToolTip": "Lap1.2_Bai6\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:45:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.2_Bai5\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai5\\Program.cs",
+              "RelativeToolTip": "Lap1.2_Bai5\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:43:18.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.2_Bai4\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai4\\Program.cs",
+              "RelativeToolTip": "Lap1.2_Bai4\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:40:25.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.2_Bai3\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai3\\Program.cs",
+              "RelativeToolTip": "Lap1.2_Bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:38:53.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.2_Bai2\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai2\\Program.cs",
+              "RelativeToolTip": "Lap1.2_Bai2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:34:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.2_Bai1\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.2\\Lap1.2_Bai1\\Program.cs",
+              "RelativeToolTip": "Lap1.2_Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:24:27.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

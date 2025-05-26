@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\dependencylnjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\dependencylnjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi3\\dependencylnjection\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D24A6-A9F7-44B6-9D69-9E061CAFDB0D}|Dependencylnjection\\Dependencylnjection.csproj|solutionrelative:dependencylnjection\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Program.cs",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Program.cs",
+              "RelativeToolTip": "Dependencylnjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:50:34.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Dependencylnjection\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T09:32:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Dependencylnjection\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:26:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Services\\StudentService.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Services\\StudentService.cs",
+              "RelativeToolTip": "Dependencylnjection\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:18:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Dependencylnjection\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:15:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dependencylnjection",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Dependencylnjection.csproj",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Dependencylnjection.csproj",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Dependencylnjection.csproj",
+              "RelativeToolTip": "Dependencylnjection\\Dependencylnjection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T09:07:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Models\\Student.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Models\\Student.cs",
+              "RelativeToolTip": "Dependencylnjection\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:58:52.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Dependencylnjection\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi3\\Dependencylnjection\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Dependencylnjection\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:58:22.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

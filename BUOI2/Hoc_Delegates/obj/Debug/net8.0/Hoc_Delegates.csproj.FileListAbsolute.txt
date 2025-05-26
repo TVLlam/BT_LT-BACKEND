@@ -1,0 +1,15 @@
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.AssemblyInfoInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.AssemblyInfo.cs
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.csproj.CoreCompileInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.sourcelink.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\bin\Debug\net8.0\Hoc_Delegates.exe
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\bin\Debug\net8.0\Hoc_Delegates.deps.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\bin\Debug\net8.0\Hoc_Delegates.runtimeconfig.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\bin\Debug\net8.0\Hoc_Delegates.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\bin\Debug\net8.0\Hoc_Delegates.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\refint\Hoc_Delegates.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\Hoc_Delegates.genruntimeconfig.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\Hoc_Delegates\obj\Debug\net8.0\ref\Hoc_Delegates.dll
