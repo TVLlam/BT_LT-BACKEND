@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranVanLam412.props" />
+</Project>

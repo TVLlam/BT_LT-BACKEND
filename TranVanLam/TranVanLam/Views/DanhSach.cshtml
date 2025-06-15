@@ -1,0 +1,27 @@
+﻿@model List<TranVanLam.Models.BaiViet>
+
+<h2>Danh sách bài viết</h2>
+
+<a href="/BaiViet/ThemBaiViet"><button>Thêm mới</button></a>
+
+<table border="1" cellpadding="8" style="margin-top:10px;">
+    <thead>
+        <tr>
+            <th>Mã bài viết</th>
+            <th>Tiêu đề</th>
+            <th>Nội dung</th>
+            <th>Ngày đăng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaBaiViet</td>
+                <td>@item.TieuDe</td>
+                <td>@item.NoiDung</td>
+                <td>@item.NgayPost.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>

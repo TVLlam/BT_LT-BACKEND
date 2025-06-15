@@ -1,0 +1,14 @@
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\bin\Debug\net8.0\Lap1.3_Bai5.exe
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\bin\Debug\net8.0\Lap1.3_Bai5.deps.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\bin\Debug\net8.0\Lap1.3_Bai5.runtimeconfig.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\bin\Debug\net8.0\Lap1.3_Bai5.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\bin\Debug\net8.0\Lap1.3_Bai5.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.AssemblyInfoInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.AssemblyInfo.cs
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.csproj.CoreCompileInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\refint\Lap1.3_Bai5.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\Lap1.3_Bai5.genruntimeconfig.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\Lap1.3\Lap1.3_Bai5\obj\Debug\net8.0\ref\Lap1.3_Bai5.dll

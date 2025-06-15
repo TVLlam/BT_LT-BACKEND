@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lap5.props" />
+</Project>

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A837332E-D0FF-4D7C-9834-50C2436DE649}|ActionResultApp\\ActionResultApp.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi4\\actionresultapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A837332E-D0FF-4D7C-9834-50C2436DE649}|ActionResultApp\\ActionResultApp.csproj|solutionrelative:actionresultapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A837332E-D0FF-4D7C-9834-50C2436DE649}|ActionResultApp\\ActionResultApp.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi4\\actionresultapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A837332E-D0FF-4D7C-9834-50C2436DE649}|ActionResultApp\\ActionResultApp.csproj|solutionrelative:actionresultapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A837332E-D0FF-4D7C-9834-50C2436DE649}|ActionResultApp\\ActionResultApp.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\buoi4\\actionresultapp\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A837332E-D0FF-4D7C-9834-50C2436DE649}|ActionResultApp\\ActionResultApp.csproj|solutionrelative:actionresultapp\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\ActionResultApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ActionResultApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\ActionResultApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ActionResultApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:21:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetData.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\ActionResultApp\\Views\\Home\\GetData.cshtml",
+              "RelativeDocumentMoniker": "ActionResultApp\\Views\\Home\\GetData.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\ActionResultApp\\Views\\Home\\GetData.cshtml",
+              "RelativeToolTip": "ActionResultApp\\Views\\Home\\GetData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:17:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\ActionResultApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ActionResultApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Buoi4\\ActionResultApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ActionResultApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:15:11.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

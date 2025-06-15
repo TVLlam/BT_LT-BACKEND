@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981E98B5-22F3-4F03-A0B6-80E10BD8FAC0}|Bai_Tap_Lap3\\Bai_Tap_Lap3.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap3\\bai_tap_lap3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{981E98B5-22F3-4F03-A0B6-80E10BD8FAC0}|Bai_Tap_Lap3\\Bai_Tap_Lap3.csproj|solutionrelative:bai_tap_lap3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap3\\Bai_Tap_Lap3\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bai_Tap_Lap3\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap3\\Bai_Tap_Lap3\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Bai_Tap_Lap3\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T06:02:37.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

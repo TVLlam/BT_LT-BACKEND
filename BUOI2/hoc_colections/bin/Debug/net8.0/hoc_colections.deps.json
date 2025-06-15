@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hoc_colections/1.0.0": {
+        "runtime": {
+          "hoc_colections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hoc_colections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

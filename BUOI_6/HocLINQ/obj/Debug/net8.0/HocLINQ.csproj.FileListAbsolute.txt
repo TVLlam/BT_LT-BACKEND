@@ -1,0 +1,15 @@
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\bin\Debug\net8.0\HocLINQ.exe
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\bin\Debug\net8.0\HocLINQ.deps.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\bin\Debug\net8.0\HocLINQ.runtimeconfig.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\bin\Debug\net8.0\HocLINQ.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\bin\Debug\net8.0\HocLINQ.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.AssemblyInfoInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.AssemblyInfo.cs
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.csproj.CoreCompileInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.sourcelink.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\refint\HocLINQ.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\HocLINQ.genruntimeconfig.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI_6\HocLINQ\obj\Debug\net8.0\ref\HocLINQ.dll

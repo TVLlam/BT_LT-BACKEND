@@ -1,0 +1,86 @@
+﻿@model HocTagHelper.Models.Product
+@{
+    ViewData["Title"] = "Create";
+}
+
+@* <div class="container col-md-8">
+    <h3>Thêm mới sản phẩm</h3>
+    <form action="/Product/Save" method="post">
+        <div class="mt-3">
+            <label for="id">Mã sản phẩm</label>
+            <input type="number" name="id" id="id" class="form-control" />
+        </div>
+        <div class="mt-3">
+            <label for="productName">Tên sản phẩm</label>
+            <input type="text" name="productName" id="productName" class="form-control" />
+        </div>
+        <div class="mt-3">
+            <label for="Price">Giá</label>
+            <input type="text" name="Price" id="productName" class="form-control" />
+        </div>
+		<button type="submit" class="btn btn-danger mt-3">Thêm mới</button>
+    </form>
+</div> *@
+
+@* <!-- HTML Helper -->
+<div class="container col-md-8">
+    <h3>Thêm mới sản phẩm</h3>
+    @using (Html.BeginForm("Save", "Product", "post"))
+    {
+        <div class="mt-3">
+            @Html.Label("id", "Mã sản phẩm")
+            @Html.TextBox("id", "", new { @type = "number", @class = "form-control" })
+        </div>
+        <div class="mt-3">
+            @Html.Label("productName", "Tên sản phẩm")
+            @Html.TextBox("productName", "", new { @type = "text", @class = "form-control" })
+        </div>
+        <div class="mt-3">
+            @Html.Label("Price", "Giá")
+            @Html.TextBox("Price", "", new { @type = "text", @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-danger mt-3">Thêm mới</button>
+    }
+</div> *@
+
+@* <!--Sinh giao diện theo model-->
+<div class="container col-md-8">
+    <h3>Thêm mới sản phẩm</h3>
+    @using (Html.BeginForm("Save", "Product", "post"))
+    {
+        <div class="mt-3">
+            @Html.LabelFor(x => x.Id, "Mã sản phẩm")
+            @Html.TextBoxFor(x => x.Id, new { @type = "number", @class = "form-control" })
+        </div>
+        <div class="mt-3">
+            @Html.LabelFor(x => x.ProductName, "Tên sản phẩm")
+            @Html.TextBoxFor(x => x.ProductName, new { @type = "text", @class = "form-control" })
+        </div>
+        <div class="mt-3">
+            @Html.LabelFor(x => x.Price, "Giá")
+            @Html.TextBoxFor(x => x.Price, new { @type = "text", @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-danger mt-3">Thêm mới</button>
+    }
+</div>
+ *@
+
+<!--Tag Helper-->
+<div class="container col-md-8">
+    <h3>Thêm mới sản phẩm</h3>
+	<form asp-action="Save" asp-controller="Product" method="post">
+        <div class="mt-3">
+            <label asp-for ="Id">Mã sản phẩm</label>
+            <input type="number" asp-for = "Id" class="form-control" />
+        </div>
+        <div class="mt-3">
+            <label asp-for="ProductName">Tên sản phẩm</label>
+            <input type="text" asp-for="ProductName" class="form-control" />
+        </div>
+        <div class="mt-3">
+            <label asp-for ="Price">Giá</label>
+            <input type="text" asp-for ="Price" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-danger mt-3">Thêm mới</button>
+    </form>
+</div>

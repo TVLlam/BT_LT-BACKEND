@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bai_Tap_Lap3.props" />
+</Project>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\tranvanlam412\\tranvanlam412\\views\\baiviet\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|solutionrelative:tranvanlam412\\views\\baiviet\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\tranvanlam412\\tranvanlam412\\controllers\\baivietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|solutionrelative:tranvanlam412\\controllers\\baivietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\tranvanlam412\\tranvanlam412\\models\\baiviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|solutionrelative:tranvanlam412\\models\\baiviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\tranvanlam412\\tranvanlam412\\views\\baiviet\\thembaiviet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E380B2D-74CC-44A6-AB81-C09C0905D3CA}|TranVanLam412\\TranVanLam412.csproj|solutionrelative:tranvanlam412\\views\\baiviet\\thembaiviet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemBaiViet.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Views\\BaiViet\\ThemBaiViet.cshtml",
+              "RelativeDocumentMoniker": "TranVanLam412\\Views\\BaiViet\\ThemBaiViet.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Views\\BaiViet\\ThemBaiViet.cshtml",
+              "RelativeToolTip": "TranVanLam412\\Views\\BaiViet\\ThemBaiViet.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T09:24:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSach.cshtml",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Views\\BaiViet\\DanhSach.cshtml",
+              "RelativeDocumentMoniker": "TranVanLam412\\Views\\BaiViet\\DanhSach.cshtml",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Views\\BaiViet\\DanhSach.cshtml",
+              "RelativeToolTip": "TranVanLam412\\Views\\BaiViet\\DanhSach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T09:23:37.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaiViet.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Models\\BaiViet.cs",
+              "RelativeDocumentMoniker": "TranVanLam412\\Models\\BaiViet.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Models\\BaiViet.cs",
+              "RelativeToolTip": "TranVanLam412\\Models\\BaiViet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:51:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiVietController.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Controllers\\BaiVietController.cs",
+              "RelativeDocumentMoniker": "TranVanLam412\\Controllers\\BaiVietController.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\TranVanLam412\\TranVanLam412\\Controllers\\BaiVietController.cs",
+              "RelativeToolTip": "TranVanLam412\\Controllers\\BaiVietController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:50:57.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

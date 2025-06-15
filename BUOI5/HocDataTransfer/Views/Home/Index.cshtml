@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+	var names = ViewData["names"] as List<string> ?? new List<string>();
+}
+<div class="container">
+    <p class="alert-danger">
+        Dữ diệu nhận từ ViewBag: @ViewBag.message1
+    </p>
+	<p class="alert-success">
+		Dữ liệu nhận từ ViewData: @ViewData["message2"]
+	</p>
+	<p class="alert-primary">Dữ liệu từ TempData: @TempData["message3"]</p>
+	@foreach (var item in names)
+	{
+		<p>@item</p>
+	}
+</div>

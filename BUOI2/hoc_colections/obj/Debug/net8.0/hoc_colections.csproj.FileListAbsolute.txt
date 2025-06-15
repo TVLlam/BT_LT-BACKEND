@@ -1,0 +1,15 @@
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\bin\Debug\net8.0\hoc_colections.exe
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\bin\Debug\net8.0\hoc_colections.deps.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\bin\Debug\net8.0\hoc_colections.runtimeconfig.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\bin\Debug\net8.0\hoc_colections.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\bin\Debug\net8.0\hoc_colections.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.AssemblyInfoInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.AssemblyInfo.cs
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.csproj.CoreCompileInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.sourcelink.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\refint\hoc_colections.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\hoc_colections.genruntimeconfig.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_colections\obj\Debug\net8.0\ref\hoc_colections.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4ECBAD-1B2E-4F2C-A5C7-54535E8DD291}|Lap1.5_Bai2\\Lap1.5_Bai2.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.5\\lap1.5_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4ECBAD-1B2E-4F2C-A5C7-54535E8DD291}|Lap1.5_Bai2\\Lap1.5_Bai2.csproj|solutionrelative:lap1.5_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B340A4-0E75-4373-AFB0-649E2EA4C9A1}|Lap1.5_Bai1\\Lap1.5_Bai1.csproj|d:\\ki 3 _2024-2025\\tklt_backend\\lap1.5\\lap1.5_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B340A4-0E75-4373-AFB0-649E2EA4C9A1}|Lap1.5_Bai1\\Lap1.5_Bai1.csproj|solutionrelative:lap1.5_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.5\\Lap1.5_Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.5_Bai2\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.5\\Lap1.5_Bai2\\Program.cs",
+              "RelativeToolTip": "Lap1.5_Bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:12:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.5\\Lap1.5_Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1.5_Bai1\\Program.cs",
+              "ToolTip": "D:\\KI 3 _2024-2025\\TKLT_BACKEND\\Lap1.5\\Lap1.5_Bai1\\Program.cs",
+              "RelativeToolTip": "Lap1.5_Bai1\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwE0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:05:20.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

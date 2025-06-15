@@ -1,0 +1,16 @@
+﻿@model TranVanLam.Models.BaiViet
+
+<h2>Thêm bài viết</h2>
+
+<form method="post" asp-action="ThemBaiViet">
+    <label>Tiêu đề:</label><br />
+    <input type="text" name="TieuDe" required /><br /><br />
+
+    <label>Nội dung:</label><br />
+    <textarea name="NoiDung" rows="4" cols="50" required></textarea><br /><br />
+
+    <label>Ngày đăng:</label><br />
+    <input type="date" name="NgayPost" required /><br /><br />
+
+    <input type="submit" value="Thêm mới" />
+</form>

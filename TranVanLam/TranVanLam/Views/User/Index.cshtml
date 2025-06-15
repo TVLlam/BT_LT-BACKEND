@@ -1,0 +1,35 @@
+﻿@model List<User>
+
+<h2>DANH SÁCH NGƯỜI DÙNG</h2>
+<a asp-action="Create" class="btn btn-primary">Thêm mới</a>
+<br />
+<br />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Tài khoản</th>
+            <th>Mật khẩu</th>
+            <th>SĐT</th>
+            <th>Email</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>@(i + 1)</td>
+                <td>@Model[i].Username</td>
+                <td>@Model[i].Password</td>
+                <td>@Model[i].Phone</td>
+                <td>@Model[i].Email</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@Model[i].UserId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@Model[i].UserId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

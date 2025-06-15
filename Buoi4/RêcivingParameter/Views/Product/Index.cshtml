@@ -1,0 +1,28 @@
+﻿@model List<RêcivingParameter.Models.Product>
+@{
+	ViewData["Title"] = "Index";
+}
+
+<div class="container col-md-10">
+	<h3>Danh Sách Sản Phẩm</h3>
+	<a href="/Product/Create" class="btn btn-danger mb-3">Thêm Mới</a>
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th>Product ID</th>
+				<th>Product Name</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item.ProductId</td>
+					<td>@item.ProductName</td>
+					<td>@item.Price</td>
+				</tr>
+			}
+	</table>
+</div>
+<h1>Index</h1>

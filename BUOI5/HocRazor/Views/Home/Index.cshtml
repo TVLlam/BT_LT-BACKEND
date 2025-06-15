@@ -1,0 +1,84 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">Welcome</h1>
+	<p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{//code c# viết code ở đây
+	var today = DateTime.Now.ToShortDateString();
+}
+<h3>Hôm nay ngày @today</h3>
+
+<!--Cấu trúc rẽ nhánh-->
+@{
+	int x = 10;
+}
+@if( x % 2 ==0)
+{
+	<p> @x là Chẵn</p>
+}
+else
+{
+	<p> @x là Lẻ</p>
+}
+
+<!--Cấu trúc lựa chọn switch- case-->
+@{
+	int thang = 2;
+}
+@switch (thang)
+{
+	case 1:
+	case 3:
+	case 5:
+	case 7:
+	case 8:
+	case 10:
+	case 12:
+		<p>Tháng @thang có 31 ngày</p>
+		break;
+	case 4:
+	case 6:
+	case 9:
+	case 11:
+		<p>Tháng @thang có 30 ngày</p>
+		break;
+	case 2:
+		<p>Tháng 2 có 29 ngày </p>
+		break;
+	default:
+		<p>Tháng không hợp lệ</p>
+		break;
+}
+
+<!--Cấu trúc lặp for-->
+@for(int i = 0; i < 5; i++)
+{
+	<p>Item @i</p>
+}
+
+<!--Cấu trúc lặp while-->
+@{
+	int j = 0;
+}
+@while (j<5)
+{
+	<p>Phần tử @j</p>
+	j++;
+}
+<!--Cấu trúc lặp do-While-->
+<!--Cấu trúc lặp foreach với List-->
+<!--Cấu trúc lặp foreach-->
+@{
+	List<string> strings = new List<string> 
+	{ "Mai", "Đào", "Lan"
+	};
+}
+@foreach (var item in strings)
+{
+	<p>Hoa @item</p>
+}
+<!--Cấu trúc lặp foreach với Dictionary-->)

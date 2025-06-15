@@ -1,0 +1,15 @@
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\bin\Debug\net8.0\hoc_Generics.exe
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\bin\Debug\net8.0\hoc_Generics.deps.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\bin\Debug\net8.0\hoc_Generics.runtimeconfig.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\bin\Debug\net8.0\hoc_Generics.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\bin\Debug\net8.0\hoc_Generics.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.AssemblyInfoInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.AssemblyInfo.cs
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.csproj.CoreCompileInputs.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.sourcelink.json
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\refint\hoc_Generics.dll
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.pdb
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\hoc_Generics.genruntimeconfig.cache
+D:\KI 3 _2024-2025\TKLT_BACKEND\BUOI2\hoc_Generics\obj\Debug\net8.0\ref\hoc_Generics.dll
